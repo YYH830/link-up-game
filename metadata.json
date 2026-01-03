@@ -1,0 +1,5 @@
+{
+  "name": "Macaron Link-Up Game",
+  "description": "A minimalist and visually pleasing Link-Up (Lianliankan) game with a soft Macaron color palette. The goal is to clear the board by matching pairs of identical tiles that can be connected by a path with at most two turns.",
+  "requestFramePermissions": []
+}
